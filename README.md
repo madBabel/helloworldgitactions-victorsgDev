@@ -11,3 +11,5 @@ Crear  Hello world
    - Saludo, debería ejecutarse en ubuntu-latest y tener un solo step, llamado echo-hello-world, que simplemente imprime el mensaje "¡Hola, mundo!" en la pantalla.
    
 5. hacer push de los cambios y comprobar que se ejecuta el workflow
+
+Corrección automática tras fallos en CI - martes,  3 de junio de 2025, 13:46:08 CEST
